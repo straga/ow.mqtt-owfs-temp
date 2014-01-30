@@ -1,0 +1,6 @@
+Server, port, sensor path, name
+localhost,4304,/28.01C378000000,redbox1
+localhost,4304,/28.93A413000000,redbox2
+localhost,4304,/28.CBB113000000,outside1
+localhost,4304,/28.CFB013000000,down1
+localhost,4304,/26.59FE65000000,bunker1

@@ -1,0 +1,9 @@
+[global]
+DEBUG = True
+LOGFILE = /var/log/mqtt-owfs-temp.log
+MQTT_HOST = localhost
+MQTT_PORT = 1883
+MQTT_TOPIC = /
+MQTT_SUBTOPIC = 1-wire/
+POLLINTERVAL = 350
+DEVICESFILE = /etc/mqtt-owfs-temp/devices.csv
